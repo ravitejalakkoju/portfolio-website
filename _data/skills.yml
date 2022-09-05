@@ -8,7 +8,6 @@ languages:
   - item: C#
   - item: SQL
   - item: Python
-  - item: SQL
   - item: R
 
 frameworks:
