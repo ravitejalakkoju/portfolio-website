@@ -23,12 +23,6 @@ tools:
   - item: Postman
   - item: MongoDB
 
-tools:
-  - item: Git & Github
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
-
 design:
   - item: Figma
   - item: Adobe Illustrator
